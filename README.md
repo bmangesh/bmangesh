@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there - I love computer science, system design, automation and Building Private Cloud 💕
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=bmangesh)
