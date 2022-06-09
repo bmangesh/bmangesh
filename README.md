@@ -8,7 +8,7 @@
 hi, i'm [Mangesh](bmangesh840371045.wordpress.com/), a passionate self-taught Computer Science Engineer and a DevOps/SRE Engineer from india.i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-<img align="right" alt="GIF" src="https://github.com/bmangesh/bmangesh/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="center" alt="GIF" src="https://github.com/bmangesh/bmangesh/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
   
