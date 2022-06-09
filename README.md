@@ -13,7 +13,7 @@ hi, i'm [Mangesh](bmangesh840371045.wordpress.com/), a passionate self-taught Co
 
   
 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=bmangesh&show_icons=true&theme=gotham" alt="bmangesh" width="300" height="320"/>
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=bmangesh&show_icons=true&theme=gotham" alt="bmangesh" width="400" height="320"/>
 
 
 
